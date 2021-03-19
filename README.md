@@ -5,3 +5,10 @@ Tematem zagadnienia jest budowa modelu systemu ABS i jego symulacja komputerowa.
 
 Wyniki:
 
+![image](https://user-images.githubusercontent.com/49729749/111720186-ae261700-885d-11eb-8365-1b31507a0a0c.png)
+
+
+![image](https://user-images.githubusercontent.com/49729749/111720194-b2eacb00-885d-11eb-8fbf-cd78b1940fb7.png)
+
+
+
