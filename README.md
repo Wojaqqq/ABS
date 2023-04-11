@@ -1,9 +1,8 @@
 # ABS System
 
-Tematem zagadnienia jest budowa modelu systemu ABS i jego symulacja komputerowa. Podczas symulacji bierzemy pod uwagę samochód poruszający się po linii prostej podczas hamowania w przypadku różnych scenariuszy takich jak: hamowanie po suchym i mokrym betonie, śniegu czy lodzie. Do każdego z powyższych scenariuszy badamy hamowanie przy pomocy systemu ABS oraz bez niego.
+The topic of this issue is the construction of a model of the ABS system and its computer simulation using Matlab. During the simulation, we consider a car moving in a straight line while braking for different scenarios such as braking on dry and wet concrete, snow or ice. For each of the above scenarios, we study braking with and without ABS.
 
-
-Wyniki:
+Results:
 
 ![image](https://user-images.githubusercontent.com/49729749/111720186-ae261700-885d-11eb-8365-1b31507a0a0c.png)
 
